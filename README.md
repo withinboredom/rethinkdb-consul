@@ -1,1 +1,3 @@
 # rethinkdb-consul
+
+You need to pass in the MASTER environment, and set the ip address of a known consul server. Spawning multiples of these will automatically create a rethinkdb cluster... 
